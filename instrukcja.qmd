@@ -1,0 +1,18 @@
+---
+title: "Instrukcja połączenia pomiędzy Git i Rstudio"
+author: "Bartłomiej Fijołek"
+format: html
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+## Czynności do wykonania przed połączeniem Rstudio i Git 
+
+Następujące czynności muszą być wykonane aby połączenie Rstudio i Git było skuteczne:
+
+1.  Na stronie internetowej <http://github.com> załóż darmowe konto GitHub.
+2.  Zainstaluj lub zaktualizuj R i Rstudio.
+3.  Zainstalować Git <http://gitforwindows.org> (wersja dla windows).
+4.  Przedstawić się Git. `user.name`
+5.  Stworzyć klucz prywatny w Rstudio i dodać go do GitHub.
